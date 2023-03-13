@@ -1,0 +1,5 @@
+/nginx_conf_agent
+/nginx.proxy.conf
+/*.debug
+.DS_Store
+
